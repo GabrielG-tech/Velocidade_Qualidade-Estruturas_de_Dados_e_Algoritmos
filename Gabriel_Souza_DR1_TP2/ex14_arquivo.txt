@@ -1,0 +1,19 @@
+push 10
+push 20
+add
+print
+
+push 10
+push 20
+add
+pop R0
+push 3
+push 5
+mul
+pop R1
+push 44
+push R0
+push R1
+div
+sub
+print
