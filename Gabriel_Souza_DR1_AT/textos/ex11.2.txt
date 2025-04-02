@@ -1,0 +1,16 @@
+leste
+A12
+A3
+norte
+A8
+A33
+sul
+A77
+A102
+A866
+norte
+A21
+A15
+A9
+oeste
+A2
